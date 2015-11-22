@@ -1,6 +1,6 @@
 # GettingAndCleaningData
 Assignment for Coursera: Getting and Cleaning Data
-## Load and Read Data
+Alt-H2 Load and Read Data
 * Loads training and test data files by name
 * Reads the files using read.table
 * Uses cbind() to merge subject and activity labels with samsung variable data
