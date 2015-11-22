@@ -1,9 +1,9 @@
 # GettingAndCleaningData
 Assignment for Coursera: Getting and Cleaning Data
 ##Load and Read Data
-Loads training and test data files by name
-Reads the files using read.table
-Uses cbind() to merge subject and activity labels with samsung variable data
+*Loads training and test data files by name
+*Reads the files using read.table
+*Uses cbind() to merge subject and activity labels with samsung variable data
 Uses rbind() to merge training data to test data, named all.data
 ##Label Variable Names to Merged Dataset
 Uses the "features.txt" to label the samsung variable data with names()
